@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OnClickListener_Toast_SharedPreferences</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+    <string name="button4">Button 4</string>
+    <string name="textView">Drag to change the text size!</string>
+    <string name="textView1">TextView 1</string>
+    <string name="textView2">TextView 2</string>
+    <string name="textView3">TextView 3</string>
+    <string name="textView4">TextView 4</string>
+
+</resources>
